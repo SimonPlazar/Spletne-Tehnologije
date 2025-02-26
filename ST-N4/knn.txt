@@ -1,0 +1,214 @@
+//PRIPOROČANJE GLEDE NA K 5, 10, 50
+Priporočila za uporabnika 346:
+KNN: 5
+Film ID: 82, Ocena: 4.59
+Film ID: 228, Ocena: 4.20
+Film ID: 69, Ocena: 4.20
+Film ID: 202, Ocena: 4.18
+Film ID: 229, Ocena: 3.99
+Priporočila za uporabnika 200:
+KNN: 5
+Film ID: 181, Ocena: 4.80
+Film ID: 168, Ocena: 4.00
+Film ID: 186, Ocena: 4.00
+Film ID: 566, Ocena: 3.80
+Film ID: 216, Ocena: 3.80
+Priporočila za uporabnika 523:
+KNN: 5
+Film ID: 98, Ocena: 4.21
+Film ID: 216, Ocena: 4.21
+Film ID: 100, Ocena: 4.00
+Film ID: 709, Ocena: 3.60
+Film ID: 275, Ocena: 3.59
+Priporočila za uporabnika 914:
+KNN: 5
+Film ID: 237, Ocena: 3.50
+Film ID: 275, Ocena: 3.48
+Film ID: 66, Ocena: 3.36
+Film ID: 173, Ocena: 3.18
+Film ID: 97, Ocena: 2.86
+Priporočila za uporabnika 192:
+KNN: 5
+Film ID: 124, Ocena: 3.84
+Film ID: 13, Ocena: 3.40
+Film ID: 1, Ocena: 3.22
+Film ID: 288, Ocena: 3.21
+Film ID: 222, Ocena: 3.20
+Priporočila za uporabnika 346:
+KNN: 10
+Film ID: 82, Ocena: 4.40
+Film ID: 69, Ocena: 4.39
+Film ID: 228, Ocena: 4.00
+Film ID: 202, Ocena: 4.00
+Film ID: 222, Ocena: 3.90
+Priporočila za uporabnika 200:
+KNN: 10
+Film ID: 181, Ocena: 4.61
+Film ID: 168, Ocena: 3.91
+Film ID: 186, Ocena: 3.81
+Film ID: 566, Ocena: 3.61
+Film ID: 64, Ocena: 3.60
+Priporočila za uporabnika 523:
+KNN: 10
+Film ID: 216, Ocena: 4.30
+Film ID: 88, Ocena: 3.99
+Film ID: 275, Ocena: 3.69
+Film ID: 318, Ocena: 3.69
+Film ID: 98, Ocena: 3.53
+Priporočila za uporabnika 914:
+KNN: 10
+Film ID: 66, Ocena: 3.90
+Film ID: 237, Ocena: 3.72
+Film ID: 275, Ocena: 3.35
+Film ID: 274, Ocena: 2.99
+Film ID: 15, Ocena: 2.84
+Priporočila za uporabnika 192:
+KNN: 10
+Film ID: 286, Ocena: 3.18
+Film ID: 1, Ocena: 3.01
+Film ID: 14, Ocena: 2.92
+Film ID: 13, Ocena: 2.82
+Film ID: 237, Ocena: 2.80
+Priporočila za uporabnika 346:
+KNN: 50
+Film ID: 82, Ocena: 3.68
+Film ID: 69, Ocena: 3.63
+Film ID: 228, Ocena: 3.41
+Film ID: 568, Ocena: 3.36
+Film ID: 28, Ocena: 3.19
+Priporočila za uporabnika 200:
+KNN: 50
+Film ID: 181, Ocena: 4.41
+Film ID: 168, Ocena: 3.70
+Film ID: 186, Ocena: 3.40
+Film ID: 64, Ocena: 3.30
+Film ID: 144, Ocena: 3.16
+Priporočila za uporabnika 523:
+KNN: 50
+Film ID: 100, Ocena: 3.72
+Film ID: 174, Ocena: 3.69
+Film ID: 216, Ocena: 3.60
+Film ID: 98, Ocena: 3.28
+Film ID: 172, Ocena: 3.16
+Priporočila za uporabnika 914:
+KNN: 50
+Film ID: 50, Ocena: 3.30
+Film ID: 98, Ocena: 3.24
+Film ID: 66, Ocena: 3.22
+Film ID: 70, Ocena: 3.02
+Film ID: 275, Ocena: 3.01
+Priporočila za uporabnika 192:
+KNN: 50
+Film ID: 181, Ocena: 2.88
+Film ID: 237, Ocena: 2.86
+Film ID: 1, Ocena: 2.74
+Film ID: 286, Ocena: 2.42
+Film ID: 15, Ocena: 2.19
+
+//PRIPOROČANJE ZA UPORABNIKE z <= 20 OCEN (COLD START)
+Priporočila za uporabnika 143:
+KNN: 5
+Film ID: 300, Ocena: 3.76
+Film ID: 748, Ocena: 2.88
+Film ID: 310, Ocena: 2.76
+Film ID: 316, Ocena: 2.69
+Film ID: 689, Ocena: 2.59
+Priporočila za uporabnika 309:
+KNN: 5
+Film ID: 302, Ocena: 4.02
+Film ID: 292, Ocena: 4.02
+Film ID: 294, Ocena: 3.86
+Film ID: 328, Ocena: 3.29
+Film ID: 305, Ocena: 3.26
+Priporočila za uporabnika 895:
+KNN: 5
+Film ID: 300, Ocena: 4.43
+Film ID: 258, Ocena: 3.59
+Film ID: 127, Ocena: 2.82
+Film ID: 298, Ocena: 2.61
+Film ID: 121, Ocena: 2.58
+Priporočila za uporabnika 147:
+KNN: 5
+Film ID: 268, Ocena: 3.80
+Film ID: 303, Ocena: 3.39
+Film ID: 307, Ocena: 2.84
+Film ID: 310, Ocena: 2.80
+Film ID: 300, Ocena: 2.78
+Priporočila za uporabnika 866:
+KNN: 5
+Film ID: 268, Ocena: 3.82
+Film ID: 286, Ocena: 3.78
+Film ID: 258, Ocena: 3.35
+Film ID: 311, Ocena: 3.33
+Film ID: 304, Ocena: 3.02
+Priporočila za uporabnika 143:
+KNN: 10
+Film ID: 300, Ocena: 3.49
+Film ID: 302, Ocena: 2.54
+Film ID: 310, Ocena: 2.21
+Film ID: 748, Ocena: 2.18
+Film ID: 678, Ocena: 1.87
+Priporočila za uporabnika 309:
+KNN: 10
+Film ID: 302, Ocena: 3.72
+Film ID: 328, Ocena: 3.53
+Film ID: 294, Ocena: 2.99
+Film ID: 332, Ocena: 2.92
+Film ID: 292, Ocena: 2.86
+Priporočila za uporabnika 895:
+KNN: 10
+Film ID: 258, Ocena: 3.49
+Film ID: 300, Ocena: 2.99
+Film ID: 237, Ocena: 2.94
+Film ID: 127, Ocena: 2.82
+Film ID: 7, Ocena: 2.50
+Priporočila za uporabnika 147:
+KNN: 10
+Film ID: 303, Ocena: 2.82
+Film ID: 268, Ocena: 2.74
+Film ID: 272, Ocena: 2.39
+Film ID: 307, Ocena: 2.35
+Film ID: 315, Ocena: 2.29
+Priporočila za uporabnika 866:
+KNN: 10
+Film ID: 286, Ocena: 3.52
+Film ID: 311, Ocena: 3.09
+Film ID: 268, Ocena: 2.59
+Film ID: 258, Ocena: 2.24
+Film ID: 750, Ocena: 2.17
+Priporočila za uporabnika 143:
+KNN: 50
+Film ID: 300, Ocena: 3.52
+Film ID: 302, Ocena: 2.58
+Film ID: 332, Ocena: 1.88
+Film ID: 310, Ocena: 1.84
+Film ID: 269, Ocena: 1.75
+Priporočila za uporabnika 309:
+KNN: 50
+Film ID: 302, Ocena: 2.73
+Film ID: 328, Ocena: 2.61
+Film ID: 288, Ocena: 2.57
+Film ID: 313, Ocena: 2.25
+Film ID: 294, Ocena: 2.21
+Priporočila za uporabnika 895:
+KNN: 50
+Film ID: 258, Ocena: 2.79
+Film ID: 237, Ocena: 2.76
+Film ID: 300, Ocena: 2.73
+Film ID: 257, Ocena: 2.45
+Film ID: 15, Ocena: 2.42
+Priporočila za uporabnika 147:
+KNN: 50
+Film ID: 300, Ocena: 2.74
+Film ID: 272, Ocena: 2.44
+Film ID: 315, Ocena: 2.19
+Film ID: 307, Ocena: 2.00
+Film ID: 268, Ocena: 1.91
+Priporočila za uporabnika 866:
+KNN: 50
+Film ID: 286, Ocena: 3.17
+Film ID: 258, Ocena: 2.68
+Film ID: 268, Ocena: 1.92
+Film ID: 288, Ocena: 1.73
+Film ID: 307, Ocena: 1.71
+

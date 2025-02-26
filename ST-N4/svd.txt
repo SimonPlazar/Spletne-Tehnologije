@@ -1,0 +1,227 @@
+Latentni dejavniki: 3
+Priporočila za uporabnika 262:
+SVD:
+Film ID: 1449, Ocena: 4.86
+Film ID: 851, Ocena: 4.61
+Film ID: 1367, Ocena: 4.60
+Film ID: 1467, Ocena: 4.58
+Film ID: 1500, Ocena: 4.49
+Priporočila za uporabnika 467:
+SVD:
+Film ID: 1449, Ocena: 4.65
+Film ID: 169, Ocena: 4.52
+Film ID: 408, Ocena: 4.49
+Film ID: 1367, Ocena: 4.48
+Film ID: 1500, Ocena: 4.44
+Priporočila za uporabnika 813:
+SVD:
+Film ID: 1449, Ocena: 4.69
+Film ID: 169, Ocena: 4.59
+Film ID: 408, Ocena: 4.55
+Film ID: 127, Ocena: 4.54
+Film ID: 318, Ocena: 4.53
+Priporočila za uporabnika 877:
+SVD:
+Film ID: 1449, Ocena: 5.51
+Film ID: 1367, Ocena: 5.16
+Film ID: 1500, Ocena: 5.14
+Film ID: 169, Ocena: 5.09
+Film ID: 851, Ocena: 5.03
+Priporočila za uporabnika 379:
+SVD:
+Film ID: 1449, Ocena: 4.98
+Film ID: 318, Ocena: 4.97
+Film ID: 169, Ocena: 4.96
+Film ID: 408, Ocena: 4.94
+Film ID: 119, Ocena: 4.85
+
+
+Latentni dejavniki: 10
+Priporočila za uporabnika 262:
+SVD:
+Film ID: 1169, Ocena: 4.22
+Film ID: 1189, Ocena: 4.21
+Film ID: 1064, Ocena: 4.20
+Film ID: 272, Ocena: 4.19
+Film ID: 697, Ocena: 4.14
+Priporočila za uporabnika 467:
+SVD:
+Film ID: 1449, Ocena: 4.68
+Film ID: 589, Ocena: 4.65
+Film ID: 89, Ocena: 4.61
+Film ID: 98, Ocena: 4.51
+Film ID: 320, Ocena: 4.44
+Priporočila za uporabnika 813:
+SVD:
+Film ID: 156, Ocena: 4.53
+Film ID: 89, Ocena: 4.51
+Film ID: 1449, Ocena: 4.33
+Film ID: 195, Ocena: 4.31
+Film ID: 12, Ocena: 4.30
+Priporočila za uporabnika 877:
+SVD:
+Film ID: 1367, Ocena: 5.17
+Film ID: 1189, Ocena: 5.11
+Film ID: 512, Ocena: 5.10
+Film ID: 421, Ocena: 5.04
+Film ID: 1449, Ocena: 5.03
+Priporočila za uporabnika 379:
+SVD:
+Film ID: 318, Ocena: 4.97
+Film ID: 408, Ocena: 4.95
+Film ID: 114, Ocena: 4.86
+Film ID: 169, Ocena: 4.85
+Film ID: 1449, Ocena: 4.85
+
+
+Latentni dejavniki: 50
+Priporočila za uporabnika 262:
+SVD:
+Film ID: 10, Ocena: 4.35
+Film ID: 1449, Ocena: 4.26
+Film ID: 1169, Ocena: 4.26
+Film ID: 1189, Ocena: 4.17
+Film ID: 190, Ocena: 4.13
+Priporočila za uporabnika 467:
+SVD:
+Film ID: 1449, Ocena: 4.62
+Film ID: 192, Ocena: 4.51
+Film ID: 119, Ocena: 4.48
+Film ID: 98, Ocena: 4.46
+Film ID: 32, Ocena: 4.42
+Priporočila za uporabnika 813:
+SVD:
+Film ID: 7, Ocena: 4.77
+Film ID: 89, Ocena: 4.68
+Film ID: 55, Ocena: 4.42
+Film ID: 1019, Ocena: 4.35
+Film ID: 175, Ocena: 4.35
+Priporočila za uporabnika 877:
+SVD:
+Film ID: 421, Ocena: 5.07
+Film ID: 1449, Ocena: 5.06
+Film ID: 169, Ocena: 4.99
+Film ID: 1367, Ocena: 4.95
+Film ID: 1189, Ocena: 4.82
+Priporočila za uporabnika 379:
+SVD:
+Film ID: 408, Ocena: 4.96
+Film ID: 1449, Ocena: 4.94
+Film ID: 613, Ocena: 4.79
+Film ID: 657, Ocena: 4.75
+Film ID: 169, Ocena: 4.70
+
+
+
+//COLD START
+// 3
+Priporočila za uporabnika 873:
+SVD:
+Film ID: 1500, Ocena: 4.30
+Film ID: 22, Ocena: 4.13
+Film ID: 1449, Ocena: 4.06
+Film ID: 1398, Ocena: 4.03
+Film ID: 64, Ocena: 4.01
+Priporočila za uporabnika 631:
+SVD:
+Film ID: 1500, Ocena: 4.81
+Film ID: 1449, Ocena: 4.58
+Film ID: 318, Ocena: 4.55
+Film ID: 64, Ocena: 4.44
+Film ID: 427, Ocena: 4.43
+Priporočila za uporabnika 147:
+SVD:
+Film ID: 851, Ocena: 5.58
+Film ID: 474, Ocena: 5.50
+Film ID: 408, Ocena: 5.36
+Film ID: 1449, Ocena: 5.35
+Film ID: 1367, Ocena: 5.35
+Priporočila za uporabnika 93:
+SVD:
+Film ID: 1449, Ocena: 5.04
+Film ID: 1500, Ocena: 4.92
+Film ID: 1398, Ocena: 4.76
+Film ID: 169, Ocena: 4.75
+Film ID: 1467, Ocena: 4.61
+Priporočila za uporabnika 636:
+SVD:
+Film ID: 1449, Ocena: 6.04
+Film ID: 1500, Ocena: 6.00
+Film ID: 1398, Ocena: 5.82
+Film ID: 22, Ocena: 5.68
+Film ID: 169, Ocena: 5.67
+// 10
+Priporočila za uporabnika 873:
+SVD:
+Film ID: 22, Ocena: 4.11
+Film ID: 966, Ocena: 4.03
+Film ID: 378, Ocena: 4.01
+Film ID: 265, Ocena: 3.95
+Film ID: 318, Ocena: 3.94
+Priporočila za uporabnika 631:
+SVD:
+Film ID: 1449, Ocena: 4.52
+Film ID: 19, Ocena: 4.41
+Film ID: 318, Ocena: 4.31
+Film ID: 169, Ocena: 4.27
+Film ID: 251, Ocena: 4.22
+Priporočila za uporabnika 147:
+SVD:
+Film ID: 488, Ocena: 5.34
+Film ID: 320, Ocena: 5.27
+Film ID: 923, Ocena: 5.25
+Film ID: 589, Ocena: 5.23
+Film ID: 813, Ocena: 5.18
+Priporočila za uporabnika 93:
+SVD:
+Film ID: 1022, Ocena: 5.30
+Film ID: 697, Ocena: 5.04
+Film ID: 851, Ocena: 5.02
+Film ID: 421, Ocena: 4.74
+Film ID: 1062, Ocena: 4.69
+Priporočila za uporabnika 636:
+SVD:
+Film ID: 1449, Ocena: 5.61
+Film ID: 169, Ocena: 5.58
+Film ID: 1019, Ocena: 5.57
+Film ID: 114, Ocena: 5.50
+Film ID: 1367, Ocena: 5.47
+
+
+// 50
+Priporočila za uporabnika 873:
+SVD:
+Film ID: 22, Ocena: 4.11
+Film ID: 966, Ocena: 3.93
+Film ID: 969, Ocena: 3.86
+Film ID: 143, Ocena: 3.86
+Film ID: 79, Ocena: 3.86
+Priporočila za uporabnika 631:
+SVD:
+Film ID: 1449, Ocena: 4.30
+Film ID: 169, Ocena: 4.25
+Film ID: 172, Ocena: 4.15
+Film ID: 50, Ocena: 4.13
+Film ID: 1367, Ocena: 4.13
+Priporočila za uporabnika 147:
+SVD:
+Film ID: 1449, Ocena: 5.14
+Film ID: 923, Ocena: 5.06
+Film ID: 1169, Ocena: 5.05
+Film ID: 1137, Ocena: 5.04
+Film ID: 650, Ocena: 5.01
+Priporočila za uporabnika 93:
+SVD:
+Film ID: 8, Ocena: 4.83
+Film ID: 313, Ocena: 4.54
+Film ID: 169, Ocena: 4.51
+Film ID: 190, Ocena: 4.45
+Film ID: 317, Ocena: 4.42
+Priporočila za uporabnika 636:
+SVD:
+Film ID: 1449, Ocena: 6.03
+Film ID: 169, Ocena: 5.61
+Film ID: 89, Ocena: 5.61
+Film ID: 1019, Ocena: 5.58
+Film ID: 316, Ocena: 5.51
+
